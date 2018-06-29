@@ -32,7 +32,7 @@ setup(
         + _read("CHANGES.rst")
     ),
     license='Apache',
-    keywords='Products Webinar',
+    keywords='Products Presentation Preferences',
     classifiers=[
         'Framework :: Zope3',
         'Intended Audience :: Developers',
